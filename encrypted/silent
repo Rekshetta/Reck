@@ -1,4 +1,3 @@
-
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Rekshetta/ReksHetta/main/silent14"))()
 Aiming.TeamCheck(false)
 
